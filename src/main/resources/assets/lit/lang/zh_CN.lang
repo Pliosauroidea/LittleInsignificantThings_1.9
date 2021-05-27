@@ -1,0 +1,32 @@
+# Creative Tabs
+#-------------------------------------------------------------------
+itemGroup.tabLIT=LIT
+
+#-------------------------------------------------------------------
+# Containers
+#-------------------------------------------------------------------
+container.ImprovedCraftingTableBlock=Improved Crafting Table
+container.SolidGeneratorBlock=Solid-Fueled Generator
+
+#-------------------------------------------------------------------
+# Blocks
+#-------------------------------------------------------------------
+tile.ImprovedFurnaceBlock.name=Improved Furnace
+tile.ImprovedChestBlock.name=Improved Chest
+tile.ImprovedCraftingTableBlock.name=Improved Crafting Table
+tile.SolidGeneratorBlock.name=Solid Fueled Generator
+tile.CharcoalBlock.name=Block of Charcoal
+tile.DeathBlock.name=Player Grave [Deprecated]
+
+tile.BetterFurnaceBlock_iron.name=铁制熔炉
+tile.BetterFurnaceBlock_gold.name=金制熔炉
+tile.BetterFurnaceBlock_diamond.name=钻石熔炉
+tile.BetterFurnaceBlock_redstone.name=红石熔炉
+tile.BetterFurnaceBlock_lapis.name=青金石熔炉
+
+#-------------------------------------------------------------------
+# Items
+#-------------------------------------------------------------------
+item.FurnaceUpgradeItem_0.name=Processing Upgrade
+item.FurnaceUpgradeItem_1.name=Fuel Boost Upgrade
+item.FurnaceUpgradeItem_2.name=容量升级
